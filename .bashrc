@@ -1,6 +1,7 @@
 # .bashrc
 
 # User specific aliases and functions
+alias grep='grep --color';
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
